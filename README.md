@@ -35,6 +35,4 @@ Access:
 - `grafana/provisioning/`: Datasource & dashboard provisioning
 - `scripts/setup.sh`: Bring up the stack
 
-## 📝 License
 
-MIT
